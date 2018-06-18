@@ -1,0 +1,6 @@
+#Ignore everything
+*
+
+#Except .gitignore and the project file
+!.gitignore
+!*.xpr
